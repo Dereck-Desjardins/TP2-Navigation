@@ -1,3 +1,4 @@
+/*https://dereck-desjardins.github.io/TP2-Navigation/Acceuil.html*/
 @import url('https://fonts.googleapis.com/css?family=Merriweather Sans');
 @import url('https://fonts.googleapis.com/css?family=Noto Serif');
 div2{
@@ -9,7 +10,7 @@ div2{
     margin: auto;
     background-color: #AFD0BF;
     min-height: 1500px;
-    padding: 0px 5px 0px 5px;
+    padding: 0px 5px 20px 5px;
     border: 5px solid #9B7E46;
 }
 .menu{
@@ -71,6 +72,32 @@ div2{
     padding:70px 0px 30px 100px;
     height: 500px;
     width: 800px;
+}
+.sources{
+    font-size: 1.7em;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.sources a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: white;
+    border-radius: 3px;
+}
+.avatar{
+    background-color: #9B7E46;
+    height: 500px;
+    width: 500px;
+    border-radius: 250px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.adjustavatar{
+    height: 400px;
+    padding-left: 140px;
+    padding-top: 50px;
 }
 
 
